@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "132591369403",
+    "firebase_url": "https://gogyde-550ca-default-rtdb.firebaseio.com",
+    "project_id": "gogyde-550ca",
+    "storage_bucket": "gogyde-550ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132591369403:android:9d2a4f60f6b50f169e3d9e",
+        "android_client_info": {
+          "package_name": "com.warton.gogyde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132591369403-3b2n72hbhefg98pjvvkcfugjaav46l38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warton.gogyde",
+            "certificate_hash": "13ec19f48fc10fdb93021ab7c3c5bab437856a7f"
+          }
+        },
+        {
+          "client_id": "132591369403-6t7gg760q9485d8qqgrrevk4mfki6vmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warton.gogyde",
+            "certificate_hash": "4d05207ce8a20b93a5ff01bf15bf697ac8062f30"
+          }
+        },
+        {
+          "client_id": "132591369403-ieu2s4nfm1710e353h7c1l0j6jfn2m48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmr4pv1ZO7t4n9jmBlTmNowIxwCV7SoOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132591369403-ieu2s4nfm1710e353h7c1l0j6jfn2m48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132591369403-83mor7jmobiu3c1hu9cu1prkfackuab9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.warton.gogyde.gogyde"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
